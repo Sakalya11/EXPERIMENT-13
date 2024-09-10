@@ -5,7 +5,7 @@ To write a code using constructor overloading
 
 ## Theory
 ### Characteristics of constructor overloading: 
-Sure, here is the definition of **Constructor Overloading** broken down into points:
+The definition of **Constructor Overloading** broken down into points:
 
 1. **Multiple Constructors:** Constructor overloading allows a class to have more than one constructor, each with a different set of parameters.
 
@@ -28,14 +28,6 @@ Sure, here is the definition of **Constructor Overloading** broken down into poi
 
 3. Improved Readability: Makes the code more readable by clearly defining how objects can be created.
 
-
-### Rules for Constructor Overloading in C++:
-
-1. Different Signatures: Each overloaded constructor must have a different signature (i.e., a different set of parameters).
-
-2. No Return Type: Like all constructors, overloaded constructors do not have a return type, not even void.
-
-3. Same Name: All constructors must have the same name as the class name.
 
 ### How Constructor Overloading Works in C++:
 
